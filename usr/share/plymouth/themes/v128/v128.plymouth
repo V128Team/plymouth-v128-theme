@@ -6,7 +6,7 @@ ModuleName=two-step
 [two-step]
 ImageDir=/usr/share/plymouth/themes/v128
 BackgroundStartColor=0x151515
-BackgroundEndColor=0x181818
+BackgroundEndColor=0x303030
 WatermarkHorizontalAlignment=0.5
 WatermarkVerticalAlignment=0.5
 HorizontalAlignment=0.5
@@ -16,7 +16,7 @@ ProgressBarVerticalAlignment=1.0
 ProgressBarWidth=1920
 ProgressBarHeight=16
 ProgressBarBackgroundColor=0x01000000
-ProgressBarForegroundColor=0xffffffff
+ProgressBarForegroundColor=0xffff0000
 
 [boot-up]
 UseProgressBar=true
